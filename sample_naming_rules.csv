@@ -1,0 +1,7 @@
+Enabled,RuleCategory,RuleType,RuleName,AppliesTo,RegexPattern,Format,SiteCode,EnvironmentCode,RoleCode,TypeCode
+true,NamingFormat,OFFICIAL,Corporate workstation,workstation,RGAWS[0-9]{4},RGAWS####,,,,
+true,SiteCode,,,,,,SITEA,,,
+true,SiteCode,,,,,,SITEB,,,
+true,ServerRole,,,,,,,,APP,
+true,ServerRole,,,,,,,,DB,
+true,DeviceTypeCode,,,,,,,,,WS

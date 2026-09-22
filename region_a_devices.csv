@@ -1,0 +1,3 @@
+Device ID,Device Name,Device Category,Device Type,Onboarding Status,OS Platform,OS Version,Domain,AAD Device Id,Device IPs,Managed By,Group,Last device update,Tags,Exposure Level,Risk Level
+demo-a1,RGAWS1001,Endpoint,Workstation,Onboarded,Windows 11,24H2,corp.example.local,aad-a1,10.50.10.21,MDE,Endpoints,2026-09-21 09:00:00,region-a,Low,Low
+demo-a2,SITEA-PRD-APP-01,Server,Server,Can be onboarded,Windows Server,2022,corp.example.local,aad-a2,10.50.10.31,Unknown,Servers,2026-08-01 09:00:00,region-a,Medium,Medium

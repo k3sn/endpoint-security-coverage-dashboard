@@ -1,0 +1,3 @@
+NetworkCIDR,DisplayName,Description,Location,VLAN,Section,Hierarchy,ReviewFlag
+10.50.10.0/24,Region A Corporate,Synthetic corporate subnet,Region A,10,Corporate,Demo > Region A,
+10.60.20.0/24,Region B Corporate,Synthetic corporate subnet,Region B,20,Corporate,Demo > Region B,
